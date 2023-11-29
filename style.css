@@ -5,4 +5,22 @@
 .notifications {
   background-color: rgb(235, 235, 237);
   color: gray;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.badge_notifications{
+  padding: 4px;
+  top: 12px;
+  left: 29px;
+}
+
+.badge_profile{
+  padding: 4px;
+  top: 32px;
+  left: 32px;
+}
+
+.navbar-toggler{
+  max-height: 40px;
 }
