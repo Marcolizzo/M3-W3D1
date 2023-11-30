@@ -1,3 +1,5 @@
+
+
 .profile__img {
   max-width: 39px;
 }
@@ -23,4 +25,20 @@
 
 .navbar-toggler{
   max-height: 40px;
+}
+
+.cards_profile__img{
+  max-width: 35px;
+}
+
+.bi.bi-bar-chart-fill{
+  color: blueviolet;
+}
+
+.carousel-control-prev,
+.carousel-control-next{
+  /* background-color: white; */
+  width: 4%;
+  /* color:black; */
+  /* font-size: 30px; */
 }
