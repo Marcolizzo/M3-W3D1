@@ -38,12 +38,8 @@
   width: 4%;
 }
 
-.jumbotron {
+.hero {
   background-color: rgb(117, 80, 254);
-}
-
-.hero-img {
-  max-width: 600px;
 }
 
 .icon_info {
