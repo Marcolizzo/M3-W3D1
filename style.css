@@ -35,10 +35,7 @@
 
 .carousel-control-prev,
 .carousel-control-next {
-  /* background-color: white; */
   width: 4%;
-  /* color:black; */
-  /* font-size: 30px; */
 }
 
 .jumbotron {
@@ -56,4 +53,16 @@
 .icon_info ion-icon,
 .icon_info i {
   background-color: rgb(255, 238, 218);
+}
+
+.card-body h5 {
+  font-size: 18px;
+}
+
+.stars {
+  font-size: 12px;
+}
+
+.punteggio {
+  font-size: 14px;
 }
